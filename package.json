@@ -1,6 +1,6 @@
 {
   "name": "@avaion/ff",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CLI for working with flat files (delimited data files)",
   "main": "index.js",
   "scripts": {
