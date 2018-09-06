@@ -1,0 +1,25 @@
+{
+  "name": "@avaion/ff",
+  "version": "0.0.0",
+  "description": "CLI for working with flat files (delimited data files)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thompsgr/ff.git"
+  },
+  "keywords": [
+    "csv"
+  ],
+  "author": "Geoffrey R. Thompson <geoff@avaion.com> (http://www.avaion.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thompsgr/ff/issues"
+  },
+  "homepage": "https://github.com/thompsgr/ff#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
