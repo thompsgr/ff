@@ -5,8 +5,8 @@ describe('myModule', function() {
         it('should be a function', function() {
             assert.equal(typeof myModule.myFunction, 'function');
         });
-        it('should return it works!', function() {
-            assert.equal(myModule.myFunction(), 'It works!');
+        it('should return \'It Works!\'', function() {
+            assert.equal(myModule.myFunction(), 'It Works!');
         });
     });
     describe.skip('More Tests', function() {
