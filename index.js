@@ -1,4 +1,4 @@
 function myFunction() {
-    return 'It Works!'
+    return 'It works!'
 }
 exports.myFunction = myFunction;
