@@ -21,5 +21,6 @@
   "homepage": "https://github.com/thompsgr/ff#readme",
   "devDependencies": {
     "mocha": "^5.2.0"
-  }
+  },
+  "dependencies": {}
 }
